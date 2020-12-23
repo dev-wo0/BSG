@@ -1,0 +1,14 @@
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.pdb
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\bin\Debug\MySql.Data.dll
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\bin\Debug\MySql.Data.xml
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.csprojResolveAssemblyReference.cache
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.MainForm.resources
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.Properties.Resources.resources
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.csproj.GenerateResource.Cache
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+c:\users\jam\documents\visual studio 2015\Projects\BattleStockGround_sever\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb

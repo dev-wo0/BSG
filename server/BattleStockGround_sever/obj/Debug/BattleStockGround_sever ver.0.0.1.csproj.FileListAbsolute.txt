@@ -1,0 +1,75 @@
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\MySql.Data.dll
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\MySql.Data.xml
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.MainForm.resources
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.Properties.Resources.resources
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csproj.GenerateResource.Cache
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Documents\Visual Studio 2015\Projects\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.MainForm.resources
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.Properties.Resources.resources
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csproj.GenerateResource.Cache
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.pdb
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.01\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csprojResolveAssemblyReference.cache
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.pdb
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csprojResolveAssemblyReference.cache
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.MainForm.resources
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.Properties.Resources.resources
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csproj.GenerateResource.Cache
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\ysh\Desktop\BattleStockGround_sever ver.0.1\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\bin\Debug\MySql.Data.dll
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\bin\Debug\MySql.Data.xml
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.MainForm.resources
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.Properties.Resources.resources
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.11\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csproj.GenerateResource.Cache
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\bin\Debug\MySql.Data.dll
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\bin\Debug\MySql.Data.xml
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.MainForm.resources
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.Properties.Resources.resources
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.2\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csproj.GenerateResource.Cache
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.pdb
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\MySql.Data.dll
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\MySql.Data.xml
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.MainForm.resources
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.Properties.Resources.resources
+C:\Users\Jam\Desktop\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.pdb
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\bin\Debug\MySql.Data.xml
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.MainForm.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.Properties.Resources.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Server\BattleStockGround_sever ver.0.3\BattleStockGround_sever\obj\Debug\BattleStockGround_sever ver.0.0.1.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\server\BattleStockGround_sever\bin\Debug\BattleStockGround_sever.exe.config
+C:\Users\kimjw\Desktop\server\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.exe
+C:\Users\kimjw\Desktop\server\BattleStockGround_sever\obj\Debug\BattleStockGround_sever.pdb
