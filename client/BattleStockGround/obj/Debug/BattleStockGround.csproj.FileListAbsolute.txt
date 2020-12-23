@@ -1,0 +1,366 @@
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\bin\Debug\BattleStockGround.exe
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\bin\Debug\BattleStockGround.pdb
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.exe
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.pdb
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.LeagueMain.resources
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+c:\users\kimjw\documents\visual studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Documents\Visual Studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Documents\Visual Studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Documents\Visual Studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Documents\Visual Studio 2015\Projects\BattleStockGround\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.LeagueMain.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.1\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.LeagueMain.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\BattleStockGround ver0.0.2\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueMain.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.exe
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueMain.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+Z:\BattleStockGround\Client\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueMain.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Downloads\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueMain.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.3)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.4)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.5)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.6)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 0.7)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.8)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 0.9) - 복사본\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Desktop\BattleStockGround (ver 1.0)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\ㄱㅊㅇ\Desktop\Battle Stock Ground\BattleStockGround (ver 1.1)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\bin\Debug\BattleStockGround.exe.config
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\bin\Debug\BattleStockGround.exe
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\bin\Debug\BattleStockGround.pdb
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.csprojResolveAssemblyReference.cache
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.CreateLeague.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.FileTransferTest.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.JoinLeaguePW.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.LeagueForm.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.LeagueView.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.Loading.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.LoginForm.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.MainForm.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.PortfolioForm.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.Properties.Resources.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.RankForm.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.serializeTest.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.SigninForm.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.testForm.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.testForm2.resources
+C:\Users\kimjw\Desktop\software\BattleSTockGround\Client\BattleStockGround (ver 1.2)\BattleStockGround\obj\Debug\BattleStockGround.csproj.GenerateResource.Cache
